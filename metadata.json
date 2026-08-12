@@ -1,0 +1,6 @@
+{
+  "name": "University Admission Research Agent",
+  "description": "Autonomous browser AI research agent that finds official university undergraduate entry requirements (International A Level & IELTS) using live browser automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
